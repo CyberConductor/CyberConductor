@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Gilad Faraj 👋
 
-<!--
-**CyberConductor/CyberConductor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an 18-year-old programmer and cybersecurity enthusiast from Israel. I love learning new technologies, building projects, and solving challenging problems.
 
-Here are some ideas to get you started:
+## 🛠️ Skills & Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** Python, C++, C#, Java, Solidity (learning)
+- **Web & Tools:** Git, GitHub, Docker, Android Development
+- **Cybersecurity:** Ethical hacking, CTF challenges, malware research, network security
+- **Other Interests:** AI projects, automation, chess
+
+## 💻 Projects
+
+- **Spy App: Data Everywhere** – A large-scale face recognition & location tracking system.  
+- **Trivia Game GUI (C#)** – Login, room management, and statistics system.  
+- **TCP Client-Server JSON Protocol** – Custom client-server communication in Python/C++.  
+- **Financial Trading Tools** – Python-based trading bots & simulators (stocks & crypto).
+
+You can see more of my projects [here](https://github.com/CyberConductor?tab=repositories).
+
+## 📊 GitHub Stats
+
+![Gilad's GitHub stats](https://github-readme-stats.vercel.app/api?username=CyberConductor&show_icons=true&theme=radical)
+
+## 📫 Contact Me
+
+- [LinkedIn](https://www.linkedin.com/in/gilad-faraj-18096a331/)
+- [Email](mailto:giladfaraj@gmail.com)
