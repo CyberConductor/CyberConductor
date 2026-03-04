@@ -18,9 +18,6 @@ I'm an 18-year-old programmer and cybersecurity enthusiast from Israel. I love l
 
 You can see more of my projects [here](https://github.com/CyberConductor?tab=repositories).
 
-## 📊 GitHub Stats
-
-![Gilad's GitHub stats](https://github-readme-stats.vercel.app/api?username=CyberConductor&show_icons=true&theme=radical)
 
 ## 📫 Contact Me
 
