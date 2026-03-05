@@ -11,10 +11,13 @@ I'm an 18-year-old programmer and cybersecurity enthusiast from Israel. I love l
 
 ## 💻 Projects
 
-- **Spy App: Data Everywhere** – A large-scale face recognition & location tracking system.  
-- **Trivia Game GUI (C#)** – Login, room management, and statistics system.  
-- **TCP Client-Server JSON Protocol** – Custom client-server communication in Python/C++.  
-- **Financial Trading Tools** – Python-based trading bots & simulators (stocks & crypto).
+- **[ChessProject1](https://github.com/CyberConductor/ChessProject1)** – A C++ chess game where you can play chess, featuring full game rules and interactive gameplay.  
+- **[Trivia](https://github.com/CyberConductor/Trivia)** – A C++ trivia game project with question logic and scoring.  
+- **[security-research](https://github.com/CyberConductor/security-research)** –  A collection of my cybersecurity research, focused on bug bounty findings, vulnerability discovery, and responsible disclosure of weaknesses. 
+- **[ctf-writeups](https://github.com/CyberConductor/ctf-writeups)** – Writeups for CTF challenges I’ve completed, explaining how I solved them.  
+- **[Exp](https://github.com/CyberConductor/Exp)** – A Windows console application in modern C++ that enumerates all running processes and their threads.
+- **[Honeypot-HighLevel](#)** – A high-level interaction honeypot project I’m currently developing.  
+- **[Oref](https://github.com/CyberConductor/Oref)** – A Java app project for analyzing rocket launch timing and trajectories.
 
 You can see more of my projects [here](https://github.com/CyberConductor?tab=repositories).
 
