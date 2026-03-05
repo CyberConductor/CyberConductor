@@ -16,9 +16,9 @@ I'm an 18-year-old programmer and cybersecurity enthusiast from Israel. I love l
 ## 📊 GitHub Stats & Top Languages
 
 ### Main Projects Top Languages
-![Top Language - Exp](https://img.shields.io/github/languages/top/CyberConductor/Exp?theme=radical)
-![Top Language - Oref](https://img.shields.io/github/languages/top/CyberConductor/Oref?theme=radical)
-![Top Language - ctf-writeups](https://img.shields.io/github/languages/top/CyberConductor/ctf-writeups?theme=radical)
+![Top Language - Exp](https://img.shields.io/github/languages/top/CyberConductor/Exp?theme=radical)  
+![Top Language - Oref](https://img.shields.io/github/languages/top/CyberConductor/Oref?theme=radical)  
+![Top Language - ctf-writeups](https://img.shields.io/github/languages/top/CyberConductor/ctf-writeups?theme=radical)  
 ![Research](https://img.shields.io/badge/Research-Cybersecurity-blue)
 
 ---
@@ -30,7 +30,7 @@ I'm an 18-year-old programmer and cybersecurity enthusiast from Israel. I love l
 - **[security-research](https://github.com/CyberConductor/security-research)** – Collection of bug bounty findings and vulnerability disclosures.  
 - **[ctf-writeups](https://github.com/CyberConductor/ctf-writeups)** – Detailed writeups for CTF challenges I’ve completed.  
 - **[Exp](https://github.com/CyberConductor/Exp)** – Windows console app in C++ enumerating processes and threads using core WinAPI.  
-- **[Honeypot-HighLevel](#)** – High-level interaction honeypot project under development.  
+- **[Honeypot-HighLevel](#)** – 🟢 High-level interaction honeypot project under development.
 - **[Oref](https://github.com/CyberConductor/Oref)** – Java project analyzing rocket launch timing and trajectories.  
 
 See more of my projects [here](https://github.com/CyberConductor?tab=repositories).
@@ -39,4 +39,5 @@ See more of my projects [here](https://github.com/CyberConductor?tab=repositorie
 
 ## 📫 Contact Me
 
-[LinkedIn](https://www.linkedin.com/in/gilad-faraj-18096a331/) | [Email](mailto:giladfaraj@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gilad%20Faraj-blue?logo=linkedin)](https://www.linkedin.com/in/gilad-faraj-18096a331/)  
+[![Email](https://img.shields.io/badge/Email-giladfaraj@gmail.com-red?logo=gmail)](mailto:giladfaraj@gmail.com)
