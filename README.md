@@ -15,14 +15,11 @@ I'm an 18-year-old programmer and cybersecurity enthusiast from Israel. I love l
 
 ## 📊 GitHub Stats & Top Languages
 
-![Public Repos](https://img.shields.io/github/repos/CyberConductor?style=flat-square)
-![Followers](https://img.shields.io/github/followers/CyberConductor?label=Followers&style=flat-square)
-
 ### Main Projects Top Languages
 ![Top Language - Exp](https://img.shields.io/github/languages/top/CyberConductor/Exp?theme=radical)
 ![Top Language - Oref](https://img.shields.io/github/languages/top/CyberConductor/Oref?theme=radical)
 ![Top Language - ctf-writeups](https://img.shields.io/github/languages/top/CyberConductor/ctf-writeups?theme=radical)
-![Top Language - security-research](https://img.shields.io/github/languages/top/CyberConductor/security-research?theme=radical) 
+![Research](https://img.shields.io/badge/Research-Cybersecurity-blue)
 
 ---
 
