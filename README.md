@@ -30,7 +30,7 @@ I'm an 18-year-old programmer and cybersecurity enthusiast from Israel. I love l
 - **[security-research](https://github.com/CyberConductor/security-research)** – Collection of bug bounty findings and vulnerability disclosures.  
 - **[ctf-writeups](https://github.com/CyberConductor/ctf-writeups)** – Detailed writeups for CTF challenges I’ve completed.  
 - **[Exp](https://github.com/CyberConductor/Exp)** – Windows console app in C++ enumerating processes and threads using core WinAPI.  
-- **[Honeypot-HighLevel]([#](https://github.com/CyberConductor/PorcupineRex)** – 🟢 High-level interaction honeypot project under development.
+- **[Honeypot](https://github.com/CyberConductor/PorcupineRex)** – 🟢 High-level interaction honeypot project under development.
 - **[Oref](https://github.com/CyberConductor/Oref)** – Java project analyzing rocket launch timing and trajectories.  
 
 See more of my projects [here](https://github.com/CyberConductor?tab=repositories).
