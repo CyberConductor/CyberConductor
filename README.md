@@ -28,7 +28,7 @@ I'm an 18-year-old programmer and cybersecurity enthusiast from Israel. I love l
 ![GDB](https://img.shields.io/badge/-GDB-A42E2B?style=for-the-badge)
 ![IDA Pro](https://img.shields.io/badge/-IDA%20Pro-800080?style=for-the-badge)
 ![Ghidra](https://img.shields.io/badge/-Ghidra-BD3C14?style=for-the-badge)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white))
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
