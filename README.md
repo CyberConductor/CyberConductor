@@ -25,6 +25,7 @@ I'm an 18-year-old programmer and cybersecurity enthusiast from Israel. I love l
 ![Nmap](https://img.shields.io/badge/-Nmap-214478?style=for-the-badge)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6633?style=for-the-badge)
+![Web Pentesting](https://img.shields.io/badge/-Web%20Pentesting-8B0000?style=for-the-badge)
 ![OWASP Top 10](https://img.shields.io/badge/-OWASP%20Top%2010-000000?style=for-the-badge&logo=owasp&logoColor=white)
 ![Frida](https://img.shields.io/badge/-Frida-FF6B35?style=for-the-badge)
 ![JADX](https://img.shields.io/badge/-JADX-2E7D32?style=for-the-badge)
