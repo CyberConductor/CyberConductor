@@ -16,30 +16,22 @@ I'm an 18-year-old programmer and cybersecurity enthusiast from Israel. I love l
 ## 📊 GitHub Stats & Top Languages
 
 ### Main Projects Top Languages
-
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Metasploit](https://img.shields.io/badge/-Metasploit-2596CD?style=for-the-badge)
 ![Nmap](https://img.shields.io/badge/-Nmap-214478?style=for-the-badge)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-
 ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6633?style=for-the-badge)
 ![OWASP Top 10](https://img.shields.io/badge/-OWASP%20Top%2010-000000?style=for-the-badge&logo=owasp&logoColor=white)
 
 ![Frida](https://img.shields.io/badge/-Frida-FF6B35?style=for-the-badge)
 ![JADX](https://img.shields.io/badge/-JADX-2E7D32?style=for-the-badge)
-![APKTool](https://img.shields.io/badge/-APKTool-6A1B9A?style=for-the-badge)
 ![Ghidra](https://img.shields.io/badge/-Ghidra-BD3C14?style=for-the-badge)
 
 ![CTF](https://img.shields.io/badge/-CTF-orange?style=for-the-badge)
-
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
