@@ -9,7 +9,6 @@ I'm a programmer and cybersecurity enthusiast from Israel focused on security re
 - **Programming:** Python, C++, C#, Java, Bash
 - **Security:** Web security, network security, Android security, CTFs, vulnerability research
 - **Development:** Automation, APIs, Docker, Git
-- **Interests:** AI projects, reverse engineering, chess
 
 ---
 
