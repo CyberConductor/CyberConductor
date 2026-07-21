@@ -1,21 +1,24 @@
 # Hi, I'm Gilad Faraj 👋
 
-I'm an 18-year-old programmer and cybersecurity enthusiast from Israel. I love learning new technologies, building projects, and solving challenging problems.
+I'm a programmer and cybersecurity enthusiast from Israel focused on security research, CTFs, and building practical projects.
 
 ---
 
 ## 🛠️ Skills & Technologies
 
-**Languages:** Python | C++ | C# | Java | Solidity (learning)  
-**Tools & Platforms:** Git | GitHub | Docker | Android Development  
-**Cybersecurity:** Ethical hacking | CTF challenges | Malware research | Network security  
-**Other Interests:** AI projects | Automation | Chess  
+- **Programming:** Python, C++, C#, Java, Bash
+- **Security:** Web security, network security, Android security, CTFs, vulnerability research
+- **Development:** Automation, APIs, Docker, Git
+- **Interests:** AI projects, reverse engineering, chess
 
 ---
 
 ## 📊 GitHub Stats & Top Languages
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CyberConductor&show_icons=true&theme=radical)
 
-### Main Projects Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CyberConductor&layout=compact&theme=radical)
+
+## 🛡️ Skills & Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
@@ -36,9 +39,9 @@ I'm an 18-year-old programmer and cybersecurity enthusiast from Israel. I love l
 ---
 
 ## 💻 Projects
-- **[security-research](https://github.com/CyberConductor/security-research)** – Collection of bug bounty findings and vulnerability disclosures.  
-- **[ctf-writeups](https://github.com/CyberConductor/ctf-writeups)** – Detailed writeups for CTF challenges I’ve completed.    
-- **[Honeypot](https://github.com/CyberConductor/PorcupineRex)** – 🟢 High-level interaction honeypot project under development.
+- **[security-research](https://github.com/CyberConductor/security-research)** - Security research notes, vulnerability writeups, and responsible disclosure reports.
+- **[ctf-writeups](https://github.com/CyberConductor/ctf-writeups)** - Collection of CTF writeups focused on web exploitation, security research, and challenge solving.
+- **[Honeypot](https://github.com/CyberConductor/PorcupineRex)** - High-level interaction honeypot project under development.
 
 See more of my projects [here](https://github.com/CyberConductor?tab=repositories).
 
