@@ -16,22 +16,26 @@ I'm an 18-year-old programmer and cybersecurity enthusiast from Israel. I love l
 ## 📊 GitHub Stats & Top Languages
 
 ### Main Projects Top Languages
-![Top Language - Exp](https://img.shields.io/github/languages/top/CyberConductor/Exp?theme=radical)  
-![Top Language - Oref](https://img.shields.io/github/languages/top/CyberConductor/Oref?theme=radical)  
-![Top Language - ctf-writeups](https://img.shields.io/github/languages/top/CyberConductor/ctf-writeups?theme=radical)  
-![Research](https://img.shields.io/badge/Research-Cybersecurity-blue)
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6633?style=for-the-badge)
+![Nmap](https://img.shields.io/badge/-Nmap-214478?style=for-the-badge)
+![GDB](https://img.shields.io/badge/-GDB-A42E2B?style=for-the-badge)
+![IDA Pro](https://img.shields.io/badge/-IDA%20Pro-800080?style=for-the-badge)
+![Ghidra](https://img.shields.io/badge/-Ghidra-BD3C14?style=for-the-badge)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white))
 
 ---
 
 ## 💻 Projects
-
-- **[ChessProject1](https://github.com/CyberConductor/ChessProject1)** – Playable C++ chess game with full rules and interactive gameplay.  
-- **[Trivia](https://github.com/CyberConductor/Trivia)** – C++ trivia game with question logic and scoring.  
 - **[security-research](https://github.com/CyberConductor/security-research)** – Collection of bug bounty findings and vulnerability disclosures.  
-- **[ctf-writeups](https://github.com/CyberConductor/ctf-writeups)** – Detailed writeups for CTF challenges I’ve completed.  
-- **[Exp](https://github.com/CyberConductor/Exp)** – Windows console app in C++ enumerating processes and threads using core WinAPI.  
+- **[ctf-writeups](https://github.com/CyberConductor/ctf-writeups)** – Detailed writeups for CTF challenges I’ve completed.    
 - **[Honeypot](https://github.com/CyberConductor/PorcupineRex)** – 🟢 High-level interaction honeypot project under development.
-- **[Oref](https://github.com/CyberConductor/Oref)** – Java project analyzing rocket launch timing and trajectories.  
 
 See more of my projects [here](https://github.com/CyberConductor?tab=repositories).
 
