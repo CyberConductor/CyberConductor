@@ -1,4 +1,4 @@
-# Hi, I'm Gilad Faraj 👋
+# Hi, I'm Gil👋
 
 I'm a programmer and cybersecurity enthusiast from Israel focused on security research, CTFs, and building practical projects.
 
