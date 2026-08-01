@@ -12,10 +12,6 @@ I'm a programmer and cybersecurity enthusiast from Israel focused on security re
 
 ---
 
-## 📊 GitHub Activity
-
-![GitHub Streak](https://streak-stats.demolab.com?user=CyberConductor&theme=radical&hide_border=true)
-
 ## 🛡️ Skills & Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
